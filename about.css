@@ -1,0 +1,19 @@
+title{
+    color:#fc659e; 
+    font-size:70px; 
+    line-height:98px; 
+    font-family: 'Libre Baskerville', serif; 
+    padding-top:60px;
+    padding-bottom:40px;
+    width:90%;
+    background-color:transparent; 
+    margin:40px auto;
+    overflow:hidden;
+    box-sizing: border-box; 
+    font-kerning: none;
+    top: 500px;
+}
+.title span{
+    color:#ffffff; 
+    overflow:hidden;
+}
